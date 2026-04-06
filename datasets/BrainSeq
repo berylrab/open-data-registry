@@ -16,6 +16,8 @@ Tags:
   - gene expression
   - genotyping
   - transcriptomics
+  - life sciences
+  - aws-pds
 License: CC BY
 Citation: >
   Jaffe AE, Straub RE, Shin JH, Tao R, Gao Y, Collado-Torres L, Kam-Thong T, Xi HS, Quan J,
@@ -39,16 +41,11 @@ DataAtWork:
       AuthorName:
       AuthorURL:
       Services:
-  Tools & Applications:
-    - Title: BrainSeq Phase1 DLPFC
-      URL: https://doi.org/10.1038/s41593-018-0197-y
-      AuthorName: Jaffe A, Straub R, Shin J, Tao R, Gao Y, Collado-Torres L, et al
-      AuthorURL:
   Publications:
-    - Title:
-      URL:
-      AuthorName:
-      AuthorURL:
+    - Title: Developmental and genetic regulation of the human cortex transcriptome illuminate schizophrenia pathogenesis
+      URL: https://www.nature.com/articles/s41593-018-0197-y
+      AuthorName: Jaffe A, Straub R, Shin J, Tao R, Gao Y, Collado-Torres L, et al
+      AuthorURL: https://www.libd.org/team/Daniel-Weinberger/
 DeprecatedNotice:
 ADXCategories:
   - Healthcare & Life Sciences Data
