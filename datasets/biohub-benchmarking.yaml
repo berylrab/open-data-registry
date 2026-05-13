@@ -1,4 +1,3 @@
----
 Name: Model Benchmarking
 Description: This dataset includes data and models relevant to benchmarking multimodal biological models. The data has been sourced and curated by a team of experts at Biohub and is provided as part of these datasets only when it is not publicly available or requires transformation to support effective model benchmarking.
 Documentation: https://virtualcellmodels.cziscience.com/benchmarks
