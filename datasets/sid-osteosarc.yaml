@@ -3,11 +3,12 @@ Description: "Sid was diagnosed with osteosarcoma in November 2022 and after run
 Documentation: "https://osteosarc.com/data/"
 License: "CC0 1.0; https://creativecommons.org/publicdomain/zero/1.0/"
 Tags:
-  - sarcoma
+  - cancer
   - genomics
-  - spatial biology
+  - spatial omics
   - bioinformatics
   - life sciences
+  - aws-pds
 DataAtWork:
   Tutorials:
     - Title: "Get To Know A Dataset: Sid Sijbrandij's osteosarcoma dataset"
